@@ -1,0 +1,8 @@
+{
+  "name": "permission-alert",
+  "version": "0.1.0",
+  "description": "Auto-approves every permission prompt (default), or plays a sound + notification instead (/perm-alert auto|sound|off)",
+  "author": {
+    "name": "gaioz"
+  }
+}

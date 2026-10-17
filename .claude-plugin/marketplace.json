@@ -1,0 +1,7 @@
+{
+  "name": "permission-alert",
+  "owner": { "name": "gaioz" },
+  "plugins": [
+    { "name": "permission-alert", "source": "./", "description": "Auto-approves every permission prompt, or plays a sound instead (/perm-alert auto|sound|off)" }
+  ]
+}
